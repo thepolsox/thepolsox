@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720px" height="420px" font-family="Consolas,'SF Mono','Fira Code',monospace">
+<rect width="720" height="420" rx="14" fill="#282a36"/>
+<text x="360" y="56" text-anchor="middle" font-size="16" fill="#bd93f9" xml:space="preserve">      /\_/\      </text>
+<text x="360" y="78" text-anchor="middle" font-size="16" fill="#bd93f9" xml:space="preserve">     ( o.o )     </text>
+<text x="360" y="100" text-anchor="middle" font-size="16" fill="#bd93f9" xml:space="preserve">      &gt; ^ &lt;      </text>
+<text x="360" y="122" text-anchor="middle" font-size="16" fill="#bd93f9" xml:space="preserve">     /|   |\     </text>
+<text x="360" y="144" text-anchor="middle" font-size="16" fill="#bd93f9" xml:space="preserve">    (_|   |_)    </text>
+<text x="360" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#ff79c6">polsox</text>
+<text x="360" y="232" text-anchor="middle" font-size="14.5" fill="#f8f8f2">Game server developer, mostly living inside RAGE:MP, SA:MP and FiveM codebases.</text>
+<text x="360" y="278" text-anchor="middle" font-size="14" fill="#6272a4">LANGUAGES</text>
+<text x="360" y="300" text-anchor="middle" font-size="14.5" fill="#f8f8f2">C#  ·  JavaScript  ·  TypeScript  ·  Python  ·  Lua</text>
+<text x="360" y="340" text-anchor="middle" font-size="14.5" fill="#f8f8f2">Currently learning: reverse engineering &amp; mod creation</text>
+<text x="360" y="386" text-anchor="middle" font-size="13" fill="#6272a4">github.com/polsox   ·   discord: polsox</text>
+</svg>
