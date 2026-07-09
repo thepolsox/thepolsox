@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720px" height="420px" font-family="Consolas,'SF Mono','Fira Code',monospace">
-<rect width="720" height="420" rx="14" fill="#ffffff"/>
-<text x="360" y="56" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">      /\_/\      </text>
-<text x="360" y="78" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">     ( o.o )     </text>
-<text x="360" y="100" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">      &gt; ^ &lt;      </text>
-<text x="360" y="122" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">     /|   |\     </text>
-<text x="360" y="144" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">    (_|   |_)    </text>
-<text x="360" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#953800">polsox</text>
-<text x="360" y="232" text-anchor="middle" font-size="14.5" fill="#24292f">Programmer</text>
-<text x="360" y="278" text-anchor="middle" font-size="14" fill="#6e7781">LANGUAGES</text>
-<text x="360" y="300" text-anchor="middle" font-size="14.5" fill="#24292f">C#  ·  JavaScript  ·  TypeScript  ·  Python  ·  Lua</text>
-<text x="360" y="340" text-anchor="middle" font-size="14.5" fill="#24292f">Currently learning: reverse engineering &amp; mod creation</text>
-<text x="360" y="386" text-anchor="middle" font-size="13" fill="#6e7781">github.com/polsox   ·   discord: polsox</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="920px" height="460px" font-family="Consolas,'SF Mono','Fira Code',monospace">
+<rect width="920" height="460" rx="14" fill="#ffffff"/>
+<text x="460" y="56" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">      /\_/\      </text>
+<text x="460" y="78" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">     ( o.o )     </text>
+<text x="460" y="100" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">      &gt; ^ &lt;      </text>
+<text x="460" y="122" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">     /|   |\     </text>
+<text x="460" y="144" text-anchor="middle" font-size="16" fill="#0a3069" xml:space="preserve">    (_|   |_)    </text>
+<text x="460" y="192" text-anchor="middle" font-size="30" font-weight="700" fill="#953800">polsox</text>
+<text x="460" y="212" text-anchor="middle" font-size="14.5" fill="#24292f">Programmer</text>
+<text x="460" y="238" text-anchor="middle" font-size="14" fill="#6e7781">languages</text>
+<text x="460" y="270" text-anchor="middle" font-size="14.5" fill="#24292f">C#  ·  TypeScript  ·  JavaScript  ·  Python  ·  C++(soon tm)</text>
+<text x="460" y="314" text-anchor="middle" font-size="14.5" fill="#24292f">interested in: reverse engineering &amp; mod creation</text>
+<text x="460" y="334" text-anchor="middle" font-size="14.5" fill="#24292f">past projects: gamemodes for rage:mp, sa:mp, and unity projects.</text>
+<text x="460" y="354" text-anchor="middle" font-size="13" fill="#6e7781">github.com/polsox   ·   discord: polsox - twitter: thepolsox</text>
 </svg>
